@@ -14,7 +14,7 @@ We're going to create an Object Oriented Cash Register that can:
 * Keep track of what's been added to it
 * Void the last transaction
 
-## Instructions
+## Instruhctions
 
 **This is a test-driven lab!** You will need to read the spec file and the test output very carefully to solve this one.
 
